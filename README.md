@@ -17,5 +17,14 @@
 
 ### 📫 Connect with me
 
-Linkedin:(https://www.linkedin.com/in/matheus-domingos-9a4968156/ )
-Email: 1domingos.matheus@gmail.com
+<p align="left">
+<a href="hhttps://www.linkedin.com/in/matheus-domingos-9a4968156/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:1domingos.matheus@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
+</p>
+
+
+
