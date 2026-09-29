@@ -17,4 +17,4 @@
 
 ### 📫 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/matheus-domingos-9a4968156/)
