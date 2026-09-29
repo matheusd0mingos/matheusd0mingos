@@ -17,4 +17,5 @@
 
 ### 📫 Connect with me
 
-[LinkedIn]([(https://www.linkedin.com/in/matheus-domingos-9a4968156/ )]
+Linkedin:(https://www.linkedin.com/in/matheus-domingos-9a4968156/ )
+Email: 1domingos.matheus@gmail.com
